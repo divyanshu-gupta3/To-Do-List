@@ -3,8 +3,6 @@
 ## Description
 This is a todo list webapp to add and detete the tasks. The main aim of this project was to learn how to deploy fully managed MongoDb across **Heroku** using **MongoDB Atlas** instead of hosting them locally.
 
-## Deployment
-Deployed Website-https://to-do-listwebapp.herokuapp.com/
 
 ## Deployed using
 * MongoDB Atlas- For database
@@ -29,5 +27,3 @@ Deployed Website-https://to-do-listwebapp.herokuapp.com/
 * CSS
 * Bootstrap
 
-## Acknowledgement
-[The Complete 2020 Web Development Bootcamp by Dr. Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
